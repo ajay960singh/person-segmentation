@@ -1,4 +1,4 @@
-# Task : Build a simpe AI API
+# Build a simpe AI API
 
 ### Description
 
